@@ -1,3 +1,4 @@
 tasks:
 - init: >
-    git clone https://github.com/chesleybrown/my-go-template.git /workspace
+    git clone https://github.com/chesleybrown/my-go-template.git /workspace/my-go-template &&
+    git clone https://github.com/chesleybrown/my-typescript-template.git /workspace/my-typescript-template
