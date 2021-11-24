@@ -1,4 +1,4 @@
 workspaceLocation: "."
 tasks:
 - init: >
-    bash clone-repos.sh
+    bash codespaces-multi-repo/clone-repos.sh
