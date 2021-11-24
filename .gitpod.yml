@@ -1,0 +1,3 @@
+tasks:
+- init: >
+    git clone https://github.com/chesleybrown/my-go-template.git /workspace
