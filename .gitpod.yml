@@ -1,3 +1,4 @@
+workspaceLocation: "."
 tasks:
 - init: >
     bash clone-repos.sh
