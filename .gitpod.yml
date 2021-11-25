@@ -2,3 +2,6 @@ workspaceLocation: "."
 tasks:
 - init: >
     bash codespaces-multi-repo/clone-repos.sh
+vscode:
+  extensions:
+    - golang.go
