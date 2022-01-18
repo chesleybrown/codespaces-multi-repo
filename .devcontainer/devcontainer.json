@@ -1,3 +1,10 @@
 {
-    "postCreateCommand": "bash clone-repos.sh"
+	"postCreateCommand": "bash clone-repos.sh",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": {
+			"VARIANT": "focal"
+		}
+	},
+	"remoteUser": "root"
 }
