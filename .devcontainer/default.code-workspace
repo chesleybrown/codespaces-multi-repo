@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../my-go-template"
+		},
+		{
+			"path": "../../my-typescript-template"
+		}
+	],
+	"settings": {}
+}
